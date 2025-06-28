@@ -20,6 +20,18 @@ Focusly transforms your productivity with the proven GTD methodology, wrapped in
 
 ---
 
+## 📸 Glimpse of Focusly
+
+Here’s a sneak peek into what Focusly looks like in action:
+
+<img src="https://github.com/user-attachments/assets/a73e06e6-c2d2-44e9-a3f2-10cf275be00b" alt="Focusly App Screenshot 1" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/8b772cae-f28a-4d4e-b6a4-c90bcb88074a" alt="Focusly App Screenshot 2" width="200" height="400" />
+
+<img src="https://github.com/user-attachments/assets/fab473f2-23e5-4f97-976e-ff6d1db4553c" alt="Focusly App Screenshot 3" width="200" height="400" />
+
+---
+
 ## 🔑 Key Features
 
 ### 📥 Smart Inbox (Capture Everything)
@@ -92,3 +104,7 @@ npm install
 
 # Start development server
 npx expo start
+```
+---
+
+**Developed by:** Rachit Katyal😎
